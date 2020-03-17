@@ -22,3 +22,12 @@ overflow : -moz-scrollbars-vertical
 .icon1{
     color: wheat;
 }
+.vector{
+    height: 24rem;
+    width: 100%;
+    margin-top: -2rem;
+    opacity:0.2;
+}
+#empezar{
+    background-color: red;
+}
