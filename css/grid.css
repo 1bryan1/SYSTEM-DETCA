@@ -345,7 +345,7 @@ body {
     cursor: pointer;
 }
 
-/** Nuestros proyectos **/
+/** FOOTER **/
 
 footer {
     background: rgba(0, 0, 0, 0.815);
@@ -374,7 +374,7 @@ footer .column i {
     color: rgba(170, 212, 55, 0.767);
 }
 
-/* It is Adjacent sibling combinator */
+/* COMBINADOR */
 
 footer .column i+i {
     padding: 0 0.5em;
